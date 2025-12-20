@@ -21,6 +21,7 @@ To the top left, you'll see 2 LLMs. The first one, which is selected by default 
 
 ## UI
 ![RAG app image](image.png)
+![Sample Response](image-1.png)
 
 ## Technical details and using the app
 If you're reading this section, you must've already known what API keys are, how to download Ollama (it's very simple, just a quick Google search) and how to create a .env file in your local system. So, once you download the repository, create a .env file and add all env variables. To keep things simple, I'll be pushing app.config file that has no secrets (did you expect that I'm a vibe coder? I'm not!) but has some file paths and URLs.
