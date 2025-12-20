@@ -1,0 +1,101 @@
+[2025-12-17 23:38:22] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:38:26] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:38:26] [INFO] User query: disaster activity in india
+[2025-12-17 23:38:26] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:38:31] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:38:31] [INFO] Retriever initialized with k=10
+[2025-12-17 23:38:33] [INFO] Retrieved 10 context documents for query: disaster activity in india
+[2025-12-17 23:38:34] [INFO] Response generation completed for query: disaster activity in india
+[2025-12-17 23:39:49] [INFO] User query: indian disasters
+[2025-12-17 23:39:49] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:39:53] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:39:54] [INFO] Retriever initialized with k=10
+[2025-12-17 23:39:55] [INFO] Retrieved 10 context documents for query: indian disasters
+[2025-12-17 23:39:57] [INFO] Response generation completed for query: indian disasters
+[2025-12-17 23:40:29] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:40:34] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:40:34] [INFO] User query: indian disasters
+[2025-12-17 23:40:34] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:40:36] [INFO] User query: indian disasters
+[2025-12-17 23:40:36] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-17 23:40:38] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:40:38] [INFO] Retriever initialized with k=10
+[2025-12-17 23:40:40] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-17 23:40:40] [INFO] Retriever initialized with k=10
+[2025-12-17 23:40:43] [INFO] Retrieved 10 context documents for query: indian disasters
+[2025-12-17 23:40:45] [INFO] Response generation completed for query: indian disasters
+[2025-12-20 00:04:51] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:04:59] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:05:08] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:06:12] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:06:19] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:15:49] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:15:56] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:31:07] [INFO] User query: Show me recent volcanic activity.
+[2025-12-20 00:31:07] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:31:13] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:31:14] [INFO] Retriever initialized with k=10
+[2025-12-20 00:31:16] [INFO] Retrieved 10 context documents for query: Show me recent volcanic activity.
+[2025-12-20 00:31:17] [INFO] Response generation completed for query: Show me recent volcanic activity.
+[2025-12-20 00:32:10] [INFO] User query: Show me top 10 recent volcanic activity
+[2025-12-20 00:32:10] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:32:18] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:32:18] [INFO] Retriever initialized with k=10
+[2025-12-20 00:32:19] [INFO] Retrieved 10 context documents for query: Show me top 10 recent volcanic activity
+[2025-12-20 00:32:21] [INFO] Response generation completed for query: Show me top 10 recent volcanic activity
+[2025-12-20 00:37:17] [INFO] User query: Show me top 10 recent volcanic activity
+[2025-12-20 00:37:17] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:37:24] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:37:25] [INFO] Retriever initialized with k=10
+[2025-12-20 00:37:25] [INFO] Retrieved 10 context documents for query: Show me top 10 recent volcanic activity
+[2025-12-20 00:37:27] [INFO] Response generation completed for query: Show me top 10 recent volcanic activity
+[2025-12-20 00:37:53] [INFO] User query: Show me top 1 recent volcanic activity
+[2025-12-20 00:37:53] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:38:01] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:38:01] [INFO] Retriever initialized with k=10
+[2025-12-20 00:38:02] [INFO] Retrieved 10 context documents for query: Show me top 1 recent volcanic activity
+[2025-12-20 00:38:02] [INFO] Response generation completed for query: Show me top 1 recent volcanic activity
+[2025-12-20 00:38:52] [INFO] User query: Show me top 1 recent volcanic activity
+[2025-12-20 00:38:52] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:38:59] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:38:59] [INFO] Retriever initialized with k=10
+[2025-12-20 00:38:59] [INFO] Retrieved 10 context documents for query: Show me top 1 recent volcanic activity
+[2025-12-20 00:39:00] [INFO] Response generation completed for query: Show me top 1 recent volcanic activity
+[2025-12-20 00:42:29] [INFO] User query: top volcanic activity in Asia
+[2025-12-20 00:42:29] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:42:36] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:42:36] [INFO] Retriever initialized with k=10
+[2025-12-20 00:42:37] [INFO] Retrieved 10 context documents for query: top volcanic activity in Asia
+[2025-12-20 00:42:39] [INFO] Response generation completed for query: top volcanic activity in Asia
+[2025-12-20 00:42:48] [INFO] User query: top 2 volcanic activity in Asia
+[2025-12-20 00:42:48] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:42:54] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:42:54] [INFO] Retriever initialized with k=10
+[2025-12-20 00:42:55] [INFO] Retrieved 10 context documents for query: top 2 volcanic activity in Asia
+[2025-12-20 00:42:55] [INFO] Response generation completed for query: top 2 volcanic activity in Asia
+[2025-12-20 00:43:16] [INFO] User query: 1 volcanic and 1 wildfire in asia recent
+[2025-12-20 00:43:16] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:43:22] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:43:22] [INFO] Retriever initialized with k=10
+[2025-12-20 00:43:23] [INFO] Retrieved 10 context documents for query: 1 volcanic and 1 wildfire in asia recent
+[2025-12-20 00:43:24] [INFO] Response generation completed for query: 1 volcanic and 1 wildfire in asia recent
+[2025-12-20 00:43:44] [INFO] User query: 1 volcanic and 1 wildfire in europe recent
+[2025-12-20 00:43:44] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:43:49] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:43:49] [INFO] Retriever initialized with k=10
+[2025-12-20 00:43:50] [INFO] Retrieved 10 context documents for query: 1 volcanic and 1 wildfire in europe recent
+[2025-12-20 00:43:50] [INFO] Response generation completed for query: 1 volcanic and 1 wildfire in europe recent
+[2025-12-20 00:43:56] [INFO] User query: 1 volcanic and 1 wildfire in europe
+[2025-12-20 00:43:56] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:44:02] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:44:02] [INFO] Retriever initialized with k=10
+[2025-12-20 00:44:03] [INFO] Retrieved 10 context documents for query: 1 volcanic and 1 wildfire in europe
+[2025-12-20 00:44:03] [INFO] Response generation completed for query: 1 volcanic and 1 wildfire in europe
+[2025-12-20 00:44:09] [INFO] User query: 1 volcanic and 1 wildfire in africa
+[2025-12-20 00:44:09] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 00:44:16] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
+[2025-12-20 00:44:16] [INFO] Retriever initialized with k=10
+[2025-12-20 00:44:17] [INFO] Retrieved 10 context documents for query: 1 volcanic and 1 wildfire in africa
+[2025-12-20 00:44:17] [INFO] Response generation completed for query: 1 volcanic and 1 wildfire in africa
+[2025-12-20 19:20:02] [INFO] Initializing HuggingFace embeddings: BAAI/bge-large-en-v1.5
+[2025-12-20 19:20:10] [INFO] Initializing vector store: disaster_events at ./chroma_langchain_db
